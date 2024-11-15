@@ -1,2 +1,19 @@
-# Study-Portal
-A Django-based study portal to help students manage academic tasks. Features include user authentication, To-Do &amp; Homework management, Notes &amp; Books tracking, and access to educational resources like Wikipedia and YouTube. Built with Django, Bootstrap, and SQLite. Easy to set up and use.
+Student Study Portal
+A modern, feature-rich study portal web application built using Django, designed to help students manage their academic tasks effectively. The portal allows users to track their To-Dos, Homeworks, Notes, Books, and access additional features like Wikipedia, YouTube for educational content, and more.
+
+Key Features:
+User Registration & Authentication: Secure user registration, login, and logout with Django's built-in authentication system.
+Dashboard: Centralized view of all academic tasks, including To-Dos, Homeworks, and more.
+To-Do List Management: Create, update, and track your To-Dos with completion status.
+Homework Management: Add, view, and mark homework as completed with deadlines and descriptions.
+Notes & Books: Manage and keep track of your study notes and academic books.
+Educational Links: Access educational resources such as Wikipedia, YouTube, Dictionary, and more through a sleek navigation bar.
+Responsive UI: Built with Bootstrap to ensure compatibility across all devices and screen sizes.
+Technologies Used:
+Django (Backend Framework)
+Python (Programming Language)
+HTML/CSS (Frontend)
+Bootstrap 5 (CSS Framework)
+SQLite (Database)
+FontAwesome (Icons)
+Crispy Forms (Form Styling)
